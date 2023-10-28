@@ -1,2 +1,2 @@
-для гри використовував ntml/css/js
+для гри використовував html/css/js
 https://kilimnikruslan.github.io/QUIZ/
